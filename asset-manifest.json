@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/noize/static/css/main.3e440cd4.chunk.css",
+    "main.js": "/noize/static/js/main.7a494a37.chunk.js",
+    "main.js.map": "/noize/static/js/main.7a494a37.chunk.js.map",
+    "runtime-main.js": "/noize/static/js/runtime-main.5c487a47.js",
+    "runtime-main.js.map": "/noize/static/js/runtime-main.5c487a47.js.map",
+    "static/js/2.2451eb87.chunk.js": "/noize/static/js/2.2451eb87.chunk.js",
+    "static/js/2.2451eb87.chunk.js.map": "/noize/static/js/2.2451eb87.chunk.js.map",
+    "index.html": "/noize/index.html",
+    "precache-manifest.e202c058767225bc66f8bb3d17bd31d5.js": "/noize/precache-manifest.e202c058767225bc66f8bb3d17bd31d5.js",
+    "service-worker.js": "/noize/service-worker.js",
+    "static/css/main.3e440cd4.chunk.css.map": "/noize/static/css/main.3e440cd4.chunk.css.map",
+    "static/js/2.2451eb87.chunk.js.LICENSE": "/noize/static/js/2.2451eb87.chunk.js.LICENSE",
+    "static/media/i1.gif": "/noize/static/media/i1.a3482848.gif",
+    "static/media/i1.mp4": "/noize/static/media/i1.fb884bed.mp4",
+    "static/media/i10.gif": "/noize/static/media/i10.07b5865d.gif",
+    "static/media/i10.mp4": "/noize/static/media/i10.d437e37c.mp4",
+    "static/media/i2.gif": "/noize/static/media/i2.10d6ff2d.gif",
+    "static/media/i2.mp4": "/noize/static/media/i2.dc5a1666.mp4",
+    "static/media/i3.gif": "/noize/static/media/i3.261131ce.gif",
+    "static/media/i3.mp4": "/noize/static/media/i3.fba6ba94.mp4",
+    "static/media/i4.mp4": "/noize/static/media/i4.3d787ba8.mp4",
+    "static/media/i4.gif": "/noize/static/media/i4.ef722ea4.gif",
+    "static/media/i5.mp4": "/noize/static/media/i5.56ba89ad.mp4",
+    "static/media/i5.gif": "/noize/static/media/i5.72946a3d.gif",
+    "static/media/i6.gif": "/noize/static/media/i6.2d011997.gif",
+    "static/media/i6.mp4": "/noize/static/media/i6.596dcf99.mp4",
+    "static/media/i7.gif": "/noize/static/media/i7.208bc9a0.gif",
+    "static/media/i7.mp4": "/noize/static/media/i7.e289e414.mp4",
+    "static/media/i8.mp4": "/noize/static/media/i8.4e1932de.mp4",
+    "static/media/i8.gif": "/noize/static/media/i8.fea37f6f.gif",
+    "static/media/i9.gif": "/noize/static/media/i9.6f4438c3.gif",
+    "static/media/i9.mp4": "/noize/static/media/i9.af8d7355.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c487a47.js",
+    "static/js/2.2451eb87.chunk.js",
+    "static/css/main.3e440cd4.chunk.css",
+    "static/js/main.7a494a37.chunk.js"
+  ]
+}
